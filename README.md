@@ -65,24 +65,25 @@
       <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
       <br>Figma
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
-      <br>Java
-    </td>
-   
-  </tr>
-  <tr
-    <td align="center" width="90">
+<td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=xd" width="45" height="45" alt="adobexd" />
       <br>Adobe XD
     </td>
+    
+   
+ 
+    
     
      
                
   <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
       <br>AWS
-    </td>    
+    </td>  
+<td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+      <br>Java
+    </td>  
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
