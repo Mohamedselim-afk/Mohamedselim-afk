@@ -71,23 +71,12 @@
     </td>
    
   </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
+  <tr
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=xd" width="45" height="45" alt="adobexd" />
       <br>Adobe XD
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=appwrite" width="45" height="45" alt="appwrite" />
-      <br>App Write
-    </td>
+    
      
                
   <td align="center" width="90">
@@ -114,27 +103,6 @@
 <br/>
 
 
-
-
-
-<h2 align="center">Github Stats and Streaks 📊🔥</h2>
-<br>
-<div align="center">
- <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ariba1039&count_private=true&theme=react&border_radius=10" alt="streak stats" />
- <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ariba1039&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
- <br/>
- <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ariba1039&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@ariba1039">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariba1039&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariba1039&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   
 </div>
 <h2 align="center"> Dart makes my heart Flutter 💜 ☕️</h2>
