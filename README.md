@@ -1,11 +1,11 @@
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/AhmedOmran22)
+
 <div align="center">
-  <h1>
-    Hi 👋, I'm Mohamed Selim
-    /h1>
+  <h1>Hi 👋, I'm Mohamed Selim Mohamed </h1>
   <h3>Flutter Mobile Developer</h3>
 
   <div>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedOmran22" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamedselim-afk" alt="visitors">
   </div>
 
   <p>
@@ -30,9 +30,8 @@
 
 ## 🔗 Contact Me
 
-📧 Email: mohamedselemdev@gmail.com
-📞 Phone: +20 1027316003
-🌐 Portfolio : https://mohamedselim-afk.github.io/my-portfolio/
+📧 Email: mohamedselemdev@gmail.com  
+🌐 portfolio: [MyPortfolio](https://mohamedselim-afk.github.io/my-portfolio/)
 
 ---
 
@@ -68,15 +67,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedOmran22&show_icons=true&theme=algolia&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamedselim-afk&show_icons=true&theme=algolia&hide_border=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmran22&layout=compact&theme=algolia&hide_border=true" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedselim-afk&layout=compact&theme=algolia&hide_border=true" width="40%">
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOmran22&theme=algolia&hide_border=true" width="90%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedselim-afk&theme=algolia&hide_border=true" width="90%">
 
 </div>
 
